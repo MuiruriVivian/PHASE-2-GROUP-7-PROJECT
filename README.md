@@ -19,6 +19,18 @@ Your company now sees all the big companies creating original video content and 
 
 > bom.movie_gross.csv.gz
 
+## Importing the Libraries
+
+The following libraries were imported for data analysis and visualization tasks:
+
+* numpy for high level mathematical functions, working with Arrays and performing statistical calculations **import numpy as np** 
+
+* pandas data manipulation, reading, analysis and managing data structure for tablular data **import pandas as pd**  
+
+* seaborn and matplotlib for data visualization such as bar charts, line plots, and scatter plots **import seaborn as sns** and  **import matplotlib.pyplot as plt %matplotlib inline** 
+
+* matplotlib image for image upload as **import matplotlib.image as mpimg**
+
 
 
 
