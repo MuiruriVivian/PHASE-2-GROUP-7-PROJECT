@@ -4,8 +4,14 @@
 
 Please fill out:
 * Student name: 
+	1. **Vivian Muiruri** (vivian.muiruri@student.moringaschool.com) 
+
+	2. 
+
+	3. 
+
 * Student pace: self paced / part time / full time; **PART TIME**
-* Scheduled project review date/time: **FRIDAY, 11th 2024
+* Scheduled project review date/time: **FRIDAY, 11th 2024**
 * Instructor name: SAMUEL KARU
 * Blog post URL:
 
@@ -18,6 +24,20 @@ Your company now sees all the big companies creating original video content and 
 > IMDB (https://www.imdb.com/)
 
 > bom.movie_gross.csv.gz
+
+> tn.movie_budgets.csv.gz
+
+> tmdb.movies.csv.gz
+
+The files are in different formats that is, CSV and TSV files and can be opened using the pd.read_csv.
+Data from IMDB is in a SQLite Database. We combined 
+
+> tmdb.movies.csv.gz and IMDB (https://www.imdb.com/) to form **cleaned merged_data.csv** 
+
+and 
+
+> bom.movie_gross.csv.gz and tn.movie_budgets.csv.gz to form **cleaned gross_budget.csv**
+
 
 ## Importing the Libraries
 
@@ -32,6 +52,28 @@ The following libraries were imported for data analysis and visualization tasks:
 * matplotlib image for image upload as **import matplotlib.image as mpimg**
 
 
+## Objectives 
+
+* Identify Popular Film Genres by popularity
+
+* Identify which type of film are profitable
+
+* Identify Emerging Trends and Audience Preferences
+
+* identify months with highest profit
+
+
+## Visualizations
+
+
+## Findings
+
+
+## Conclusion 
+
+
+## Recommendation  
+    
 
 
 
