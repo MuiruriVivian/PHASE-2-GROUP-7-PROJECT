@@ -8,7 +8,7 @@ Please fill out:
 
 	2. **Calvin Angoye** (calvin.angoye@student.moringaschool.com)
 
-	3. 
+	3. Dominic Oseko (dominic.oseko@student.moringaschool.com)
 
 * Student pace: self paced / part time / full time; **PART TIME**
 * Scheduled project review date/time: **FRIDAY, 11th 2024**
