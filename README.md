@@ -3,7 +3,7 @@
 ## Final Project Submission
 
 Please fill out:
-* Student name: 
+* Students name: 
 	1. **Vivian Muiruri** (vivian.muiruri@student.moringaschool.com) 
 
 	2. 
