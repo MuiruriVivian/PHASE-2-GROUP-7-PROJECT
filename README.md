@@ -1,6 +1,6 @@
-# PHASE-2-GROUP-7-PROJECT
+# GROUP-7-PROJECT
 
-## Final Project Submission
+## PHASE 2: Final Project Submission
 
 Please fill out:
 * Students name: 
