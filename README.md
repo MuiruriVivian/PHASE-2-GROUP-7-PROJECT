@@ -6,7 +6,7 @@ Please fill out:
 * Students name: 
 	1. **Vivian Muiruri** (vivian.muiruri@student.moringaschool.com) 
 
-	2. 
+	2. **Calvin Angoye** (calvin.angoye@student.moringaschool.com)
 
 	3. 
 
