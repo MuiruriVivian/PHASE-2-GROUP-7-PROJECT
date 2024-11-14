@@ -21,7 +21,7 @@ Please fill out:
 * Student pace: self paced / part time / full time; **PART TIME**
 * Scheduled project review date/time: **FRIDAY, 11th 2024**
 * Instructor name: SAMUEL KARU
-* Blog post URL:
+* Blog post URL: https://github.com/MuiruriVivian/PHASE-2-GROUP-7-PROJECT
 
 ## Business Problem
 
