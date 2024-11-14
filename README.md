@@ -10,6 +10,14 @@ Please fill out:
 
 	3. Dominic Oseko (dominic.oseko@student.moringaschool.com)
 
+	4. 
+
+	5. 
+
+	6. 
+
+	7. 
+
 * Student pace: self paced / part time / full time; **PART TIME**
 * Scheduled project review date/time: **FRIDAY, 11th 2024**
 * Instructor name: SAMUEL KARU
@@ -51,6 +59,27 @@ The following libraries were imported for data analysis and visualization tasks:
 
 * matplotlib image for image upload as **import matplotlib.image as mpimg**
 
+* Sqlite3 in Python for loading the SQLite library, which provides a lightweight, disk-based database system as **import sqlite3**
+
+* Scikit-Learn library  for classification, regression, clustering, and dimensionality reduction, along with utilities for preprocessing, model selection, and evaluation as **import sklearn as sk**
+
+* Statsmodels library, a robust statistical package that is widely used for conducting statistical tests, modeling, and data exploration as **import statsmodels.api as sm**
+
+* Stats module from SciPy to provides a vast range of statistical tools, including probability distributions, statistical tests, and functions for descriptive statistics, for data analysis and hypothesis testing as **import scipy.stats as stats**
+
+
+## Data Cleaning 
+The four dataset will go through sanity check first thats is data cleaning, it includes:
+*  Converting some columns that are are supposed to be numerical i.e production_budget, domestic_gross_y, worldwide_gross from object dtype to float dtype
+
+*  Splitting the genre column to make it easier to analyze each genre independently.
+
+*  Check the null or missing values and fill them, and drop where need be
+
+* Check and drop duplicates
+  
+* Check and drop outliers
+
 
 ## Objectives 
 
@@ -61,6 +90,23 @@ The following libraries were imported for data analysis and visualization tasks:
 * Identify Emerging Trends and Audience Preferences
 
 * identify months with highest profit
+
+## Data Analysis 
+
+Our Data analysis structure includes:
+
+* Introduction
+
+* Exploratory Data Analysis (EDA)
+
+* Statistical Distribution
+
+* Inferential Statistics
+
+* Conclusion
+
+* Recommendation
+
 
 
 ## Visualizations
