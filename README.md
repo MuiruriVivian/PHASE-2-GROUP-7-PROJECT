@@ -1,4 +1,4 @@
-# GROUP-7-PROJECT
+![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)# GROUP-7-PROJECT
 
 ## PHASE 2: Final Project Submission
 
@@ -17,6 +17,7 @@ Please fill out:
 	6. 
 
 	7. 
+
 
 * Student pace: self paced / part time / full time; **PART TIME**
 * Scheduled project review date/time: **FRIDAY, 11th 2024**
@@ -110,7 +111,8 @@ Our Data analysis structure includes:
 
 
 ## Visualizations
-![][Uploading image.png…]()
+![Uploading Distribution of average ratings by genre.png…]()
+
 
 
 
