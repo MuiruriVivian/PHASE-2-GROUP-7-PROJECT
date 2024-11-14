@@ -10,9 +10,9 @@ Please fill out:
 
 	3. Dominic Oseko (dominic.oseko@student.moringaschool.com)
 
-	4. 
+	4. Soudie Okwaro (soudie.okwaro@student.moringaschool.com)
 
-	5. 
+	5. Winfred Karimi(winfred.karimi@student.moringaschool.com)
 
 	6. 
 
@@ -110,6 +110,8 @@ Our Data analysis structure includes:
 
 
 ## Visualizations
+![Uploading image.png…]()
+
 
 
 
