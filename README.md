@@ -10,7 +10,7 @@ Please fill out:
 
 	3. Dominic Oseko (dominic.oseko@student.moringaschool.com)
 
-	4. 
+	4. Soudie Okwaro (soudie.okwaro@student.moringaschool.com)
 
 	5. 
 
