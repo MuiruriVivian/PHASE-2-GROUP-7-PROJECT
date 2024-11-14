@@ -1,4 +1,4 @@
-![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)# GROUP-7-PROJECT
+# GROUP-7-PROJECT
 
 ## PHASE 2: Final Project Submission
 
@@ -111,7 +111,7 @@ Our Data analysis structure includes:
 
 
 ## Visualizations
-![Uploading Distribution of average ratings by genre.png…]()
+![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)
 
 
 
