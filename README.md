@@ -12,7 +12,7 @@ Please fill out:
 
 	4. Soudie Okwaro (soudie.okwaro@student.moringaschool.com)
 
-	5. 
+	5. Winfred Karimi(winfred.karimi@student.moringaschool.com)
 
 	6. 
 
