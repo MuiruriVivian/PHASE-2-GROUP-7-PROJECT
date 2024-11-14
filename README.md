@@ -112,6 +112,8 @@ Our Data analysis structure includes:
 
 ## Visualizations
 ![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)
+![Genre on Profitability.png](https://github.com/MuiruriVivian/PHASE-2-GROUP-7-PROJECT/blob/main/Genre%20on%20Profitability.png)
+![Average ROI on Genres.png](https://github.com/MuiruriVivian/PHASE-2-GROUP-7-PROJECT/blob/main/Average%20ROI%20on%20Genres.png)
 
 
 
