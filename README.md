@@ -110,7 +110,7 @@ Our Data analysis structure includes:
 
 
 ## Visualizations
-![Uploading image.png…]()
+![][Uploading image.png…]()
 
 
 
