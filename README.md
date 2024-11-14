@@ -112,13 +112,6 @@ Our Data analysis structure includes:
 
 ## Visualizations
 ![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)
-![91b6873b-6ec4-4c8e-8eb4-2894e4ecb1cb](https://github.com/user-attachments/assets/3bc1afa9-740b-46ee-ad08-e2223092b7db)
-![19870c71-4938-40b5-a54b-269c79c4a491](https://github.com/user-attachments/assets/1d16268f-72b6-48ed-b2a5-4dd2f565946c)
-![fa70fe82-7408-439a-a7d6-9e674dcd903d](https://github.com/user-attachments/assets/a4beef21-cfe2-487e-a7eb-026c4f2cc298)
-
-
-
-
 
 
 ## Findings
