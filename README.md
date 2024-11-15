@@ -118,8 +118,9 @@ Our Data analysis structure includes:
 
 ![Month with Highet profit](https://github.com/user-attachments/assets/80f4b419-0ae2-4d65-acbe-b75c747ee3d7)
 
-![Normal Distribution](https://github.com/user-attachments/assets/f81638e9-3068-499c-afdd-8419cd9841c9)
+![Normal Distribution](https://github.com/user-attachments/assets/54c3ee11-aca1-4c6c-af56-9ac4e42c9283)
 
+![Correlation](https://github.com/user-attachments/assets/151579e1-f2ce-4732-8b87-d97acfa41a37)
 
 ## Findings
 - Most consistently rated genres are Drama and Comedy, the highest profitability is seen in Music and Horror genres, and releasing films in January, July, and November tends to maximize profits.
