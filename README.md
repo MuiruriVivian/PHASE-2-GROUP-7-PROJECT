@@ -111,7 +111,6 @@ Our Data analysis structure includes:
 
 
 ## Visualizations
-![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)
 
 ![Top movie Genre with Rating](https://github.com/user-attachments/assets/5848d125-72cb-48b4-a952-46b666bcb7b5)
 
