@@ -137,7 +137,7 @@ Based the attached notebook with analytics and insights, in one robust sentence,
 
 
 ## Conclusion 
-he analysis indicates that movie profitability is influenced by several factors, including genre, release timing, and production budget. 
+The analysis indicates that movie profitability is influenced by several factors, including genre, release timing, and production budget. 
 Genres such as Music and Horror stand out as particularly profitable, even though they often have lower budgets compared to other genres. 
 Additionally, releasing films during certain months—specifically January, July, and November—tends to maximize box office returns, likely due to favorable seasonal demand. 
 While higher production budgets are correlated with increased worldwide gross, profitability remains highly variable, indicating that simply spending more does not guarantee financial success. 
