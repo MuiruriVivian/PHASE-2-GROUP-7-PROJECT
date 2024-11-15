@@ -14,7 +14,7 @@ Please fill out:
 
 	5. Winfred Karimi(winfred.karimi@student.moringaschool.com)
 
-	6. 
+	6. Anguista Kupeka (anguista.kupeka@student.moringaschool.com)
 
 	7. 
 
