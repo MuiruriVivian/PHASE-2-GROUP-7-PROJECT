@@ -110,9 +110,16 @@ Our Data analysis structure includes:
 * Recommendation
 
 
-
 ## Visualizations
 ![Distribution of average ratings by genre](https://github.com/user-attachments/assets/369ac8bf-994f-40f3-8cf2-7e868ee1d29a)
+
+![Top movie Genre with Rating](https://github.com/user-attachments/assets/5848d125-72cb-48b4-a952-46b666bcb7b5)
+
+![Average profitability of top genre](https://github.com/user-attachments/assets/b161f4f4-00f1-48f8-bc64-290230548e8c)
+
+![Month with Highet profit](https://github.com/user-attachments/assets/80f4b419-0ae2-4d65-acbe-b75c747ee3d7)
+
+![Normal Distribution](https://github.com/user-attachments/assets/f81638e9-3068-499c-afdd-8419cd9841c9)
 
 
 ## Findings
